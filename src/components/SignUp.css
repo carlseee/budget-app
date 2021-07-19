@@ -1,0 +1,24 @@
+input[type='text'],
+input[type='number'],
+input[type='password'] {
+  border: 6px solid #dedede;
+  border-radius: 3px;
+  display: block;
+  font-size: 16px;
+  padding: 15px;
+  margin-top: 15px;
+  width: 125%;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: #f7931d;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 16px;
+  margin: 30px 0 30px;
+  padding: 10px;
+  width: 125%;
+}
